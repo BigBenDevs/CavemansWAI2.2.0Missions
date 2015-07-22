@@ -1,7 +1,8 @@
 # CavemansWAI2.2.0Missions
-Caveman's custom missions for WAI 2.2.0 Arma 2 Epoch/Overpoch
+##Caveman's custom missions for WAI 2.2.0 Arma 2 Epoch/Overpoch
 
 Requires that you already have WAI 2.2.0 installed  http://epochmod.com/forum/index.php?/topic/15671-release-wicked-ai-220/
+
 For bugs and updates, follow the dev thread http://epochmod.com/forum/index.php?/topic/36089-release-new-missions-for-wai-220/
 #INSTRUCTIONS
 1: Edit the mission list inside the config.sqf in your WAI folder to include the new missions.
@@ -170,7 +171,10 @@ http://epochmod.com/...ai-220/page-103
 post#2045
 **********************************************************************************************************
 
-3. Download, unzip and copy the new missions into the hero and bandit folders of your WAI.
+3: Download, unzip and copy the new missions into the hero and bandit folders of your WAI.
+
+Thanks to f3cuk for WAI 2.2.0
+All who have assisted in testing and fixing bugs (see below)
 
 #CHANGELOG
 ```
