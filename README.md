@@ -174,6 +174,7 @@ post#2045
 3: Download, unzip and copy the new missions into the hero and bandit folders of your WAI.
 
 *Thanks to f3cuk for WAI 2.2.0
+
 *All who have assisted in testing and fixing bugs (see below)
 
 #CHANGELOG
