@@ -173,6 +173,7 @@ post#2045
 3. Download, unzip and copy the new missions into the hero and bandit folders of your WAI.
 
 #CHANGELOG
+```
 (July 18th 2015) 	[FIXED] Removed Bandit Junk yard
 (July 18th 2015)  	[FIXED] -Error in Junkyard Mission (Thank you Megaz & Satlzman)
 (July 14th 2015)  	[FIXED] RADIOSHACK & JUNKYARD MISSION - MISSING "   (Thank You MEGAZ)
@@ -186,4 +187,4 @@ post#2045
 (June 30th 2015) 	[FIXED] Gem Tower - CASTLE TOWER BLOCKING LADDER (thank you cen)
 (June 27th 2015) 	[FIXED] Slaughter House  - MISSION NOT COMPLETING (thank you cen)
 (June 27th 2015) 	[FIXED] Gem Tower - GAP IN TOWERS (thank you Bob_the_K)
-
+```
